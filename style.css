@@ -3,6 +3,7 @@
 :root {
     --colorBodyLetra: #170a50;
     --colorBackgroudDaPage: #663399;
+    --imgBackgroundDaPage: url(https://ichef.bbci.co.uk/news/640/cpsprodpb/71AC/production/_116600192_gettyimages-1211293811.jpg);
     --colorFormLogin: #fff;
     --colorFormLoginP: #ccc;
     --colorFormLoginInput: #ccc;
